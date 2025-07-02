@@ -1,4 +1,4 @@
-module github.com/zhaobingss/gorm-sqlcipher
+module github.com/joeyCheekXXX/gorm-sqlcipher
 
 go 1.14
 
